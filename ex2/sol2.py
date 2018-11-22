@@ -1,4 +1,4 @@
-# image processing ex1
+# image processing ex2 - convolution and fft
 # author: yuval.reif
 
 import numpy as np
